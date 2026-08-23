@@ -1,8 +1,9 @@
 {
+  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "ai-code-reviewer",
   "compatibility_date": "2026-08-23",
   "assets": {
-    "directory": "./dist/ai-code-reviewer/browser",
+    "directory": "./dist/ai-code-reviewer",
     "not_found_handling": "single-page-application"
   }
 }
