@@ -1,6 +1,8 @@
 # AI Code Reviewer
 
 An Angular application that sends pasted source code to a Firebase HTTPS Cloud Function. The function submits the code to OpenAI and returns a review covering bugs, security, performance, code quality, and improvements.
+Deployed on 
+https://ai-code-reviewer.rimjhim-verma1994.workers.dev/
 
 ## Prerequisites
 
